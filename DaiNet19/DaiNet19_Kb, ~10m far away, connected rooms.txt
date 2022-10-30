@@ -1,0 +1,10 @@
+Speech: 0.108
+Animal: 0.103
+Vehicle: 0.061
+Music: 0.060
+Bird: 0.060
+Silence: 0.040
+Domestic animals, pets: 0.038
+Snort: 0.033
+Inside, small room: 0.032
+Outside, rural or natural: 0.028

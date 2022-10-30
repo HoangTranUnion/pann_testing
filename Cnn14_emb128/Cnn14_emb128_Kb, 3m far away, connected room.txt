@@ -1,0 +1,10 @@
+Speech: 0.793
+Door: 0.071
+Sliding door: 0.066
+Tap: 0.059
+Inside, small room: 0.042
+Music: 0.038
+Ping: 0.031
+Tick: 0.027
+Animal: 0.026
+Clip-clop: 0.025

@@ -1,0 +1,10 @@
+Ping: 0.329
+Horse: 0.116
+Animal: 0.110
+Speech: 0.103
+Clip-clop: 0.068
+Tap: 0.054
+Vehicle: 0.043
+Thump, thud: 0.042
+Inside, large room or hall: 0.037
+Music: 0.029

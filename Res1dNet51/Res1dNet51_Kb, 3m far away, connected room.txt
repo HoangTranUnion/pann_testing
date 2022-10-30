@@ -1,0 +1,10 @@
+Speech: 0.500
+Music: 0.118
+Sliding door: 0.062
+Animal: 0.061
+Inside, small room: 0.042
+Inside, large room or hall: 0.040
+Vehicle: 0.037
+Door: 0.030
+Thunder: 0.028
+Rustle: 0.028

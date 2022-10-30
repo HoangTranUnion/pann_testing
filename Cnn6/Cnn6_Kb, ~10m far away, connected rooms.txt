@@ -1,0 +1,10 @@
+Music: 0.129
+Speech: 0.106
+Animal: 0.063
+Arrow: 0.049
+Inside, small room: 0.038
+Outside, rural or natural: 0.032
+Silence: 0.030
+Breathing: 0.026
+Whoosh, swoosh, swish: 0.024
+Rustle: 0.021

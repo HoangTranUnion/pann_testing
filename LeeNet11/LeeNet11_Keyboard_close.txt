@@ -1,0 +1,10 @@
+Computer keyboard: 0.174
+Typing: 0.148
+Music: 0.121
+Speech: 0.072
+Inside, small room: 0.050
+Tap: 0.036
+Finger snapping: 0.032
+Crumpling, crinkling: 0.032
+Crunch: 0.032
+Tearing: 0.022

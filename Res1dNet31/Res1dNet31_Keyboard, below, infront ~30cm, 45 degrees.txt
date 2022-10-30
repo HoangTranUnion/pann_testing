@@ -1,0 +1,10 @@
+Music: 0.203
+Typewriter: 0.194
+Speech: 0.068
+Inside, small room: 0.054
+Animal: 0.053
+Computer keyboard: 0.041
+Vehicle: 0.038
+Inside, large room or hall: 0.034
+Typing: 0.034
+Door: 0.033

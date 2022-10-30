@@ -1,0 +1,10 @@
+Typing: 0.745
+Computer keyboard: 0.740
+Tap: 0.105
+Music: 0.086
+Typewriter: 0.057
+Speech: 0.047
+Thunk: 0.017
+Inside, small room: 0.014
+Vehicle: 0.006
+Outside, urban or manmade: 0.004

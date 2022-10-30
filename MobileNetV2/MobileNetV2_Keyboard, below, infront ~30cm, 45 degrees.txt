@@ -1,0 +1,10 @@
+Arrow: 0.224
+Speech: 0.119
+Music: 0.116
+Vehicle: 0.098
+Cupboard open or close: 0.068
+Inside, large room or hall: 0.045
+Train: 0.034
+Inside, small room: 0.029
+Bird: 0.024
+Rail transport: 0.022

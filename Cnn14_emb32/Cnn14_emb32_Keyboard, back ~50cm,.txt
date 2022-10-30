@@ -1,0 +1,10 @@
+Speech: 0.186
+Dishes, pots, and pans: 0.083
+Vehicle: 0.067
+Sewing machine: 0.059
+Cutlery, silverware: 0.052
+Inside, small room: 0.043
+Liquid: 0.032
+Music: 0.030
+Water: 0.029
+Rattle: 0.029

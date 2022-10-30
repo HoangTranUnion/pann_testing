@@ -1,0 +1,10 @@
+Sliding door: 0.391
+Door: 0.119
+Mechanical fan: 0.076
+Inside, small room: 0.074
+Vehicle: 0.069
+Cupboard open or close: 0.064
+Animal: 0.055
+Water: 0.046
+Speech: 0.038
+Typewriter: 0.037

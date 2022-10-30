@@ -1,0 +1,10 @@
+Speech: 0.770
+Sliding door: 0.280
+Animal: 0.114
+Bird: 0.090
+Inside, small room: 0.071
+Inside, large room or hall: 0.069
+Door: 0.068
+Mouse: 0.048
+Clip-clop: 0.043
+Horse: 0.042

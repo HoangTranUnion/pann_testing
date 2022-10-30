@@ -1,0 +1,10 @@
+Speech: 0.409
+Music: 0.151
+Animal: 0.116
+Inside, small room: 0.077
+Domestic animals, pets: 0.060
+Inside, large room or hall: 0.055
+Silence: 0.044
+Breathing: 0.038
+Television: 0.035
+Vehicle: 0.027

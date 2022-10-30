@@ -1,0 +1,10 @@
+Sliding door: 0.310
+Speech: 0.147
+Inside, small room: 0.096
+Door: 0.087
+Bathtub (filling or washing): 0.085
+Cupboard open or close: 0.053
+Animal: 0.044
+Water: 0.042
+Raindrop: 0.041
+Water tap, faucet: 0.029

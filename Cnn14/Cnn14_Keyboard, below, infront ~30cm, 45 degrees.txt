@@ -1,0 +1,10 @@
+Mechanisms: 0.098
+Speech: 0.086
+Typewriter: 0.077
+Sliding door: 0.076
+Ratchet, pawl: 0.068
+Animal: 0.058
+Music: 0.056
+Gears: 0.048
+Vehicle: 0.045
+Typing: 0.043

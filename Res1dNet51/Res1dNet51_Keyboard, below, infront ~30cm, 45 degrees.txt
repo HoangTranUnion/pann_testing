@@ -1,0 +1,10 @@
+Music: 0.174
+Typewriter: 0.087
+Vehicle: 0.082
+Speech: 0.079
+Typing: 0.046
+Computer keyboard: 0.046
+Sliding door: 0.041
+Inside, small room: 0.040
+Thump, thud: 0.030
+Tap: 0.027

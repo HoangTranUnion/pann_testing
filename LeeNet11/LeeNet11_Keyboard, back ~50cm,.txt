@@ -1,0 +1,10 @@
+Music: 0.163
+Speech: 0.106
+Animal: 0.065
+Inside, small room: 0.046
+Domestic animals, pets: 0.031
+Bird: 0.030
+Cat: 0.023
+Musical instrument: 0.021
+Mechanisms: 0.021
+Cupboard open or close: 0.020

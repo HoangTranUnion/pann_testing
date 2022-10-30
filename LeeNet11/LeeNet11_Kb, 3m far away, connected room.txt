@@ -1,0 +1,10 @@
+Speech: 0.250
+Music: 0.165
+Animal: 0.120
+Cat: 0.089
+Domestic animals, pets: 0.077
+Inside, small room: 0.054
+Meow: 0.039
+Snoring: 0.029
+Whispering: 0.028
+Musical instrument: 0.022

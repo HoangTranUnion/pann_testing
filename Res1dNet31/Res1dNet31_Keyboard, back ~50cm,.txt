@@ -1,0 +1,10 @@
+Bathtub (filling or washing): 0.150
+Sliding door: 0.138
+Water tap, faucet: 0.114
+Water: 0.101
+Sink (filling or washing): 0.082
+Inside, small room: 0.079
+Door: 0.078
+Music: 0.063
+Vehicle: 0.050
+Speech: 0.047

@@ -1,0 +1,10 @@
+Speech: 0.788
+Music: 0.238
+Inside, large room or hall: 0.137
+Child speech, kid speaking: 0.057
+Inside, small room: 0.054
+Arrow: 0.054
+Tap: 0.040
+Animal: 0.034
+Thump, thud: 0.025
+Basketball bounce: 0.024

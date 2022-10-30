@@ -1,0 +1,10 @@
+Tap: 0.242
+Typing: 0.196
+Computer keyboard: 0.113
+Rain: 0.085
+Raindrop: 0.082
+Rain on surface: 0.064
+Speech: 0.059
+Typewriter: 0.049
+Inside, small room: 0.049
+Music: 0.044

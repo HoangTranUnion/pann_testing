@@ -1,0 +1,10 @@
+Speech: 0.375
+Snort: 0.228
+Animal: 0.086
+Inside, large room or hall: 0.066
+Slam: 0.060
+Thump, thud: 0.058
+Music: 0.053
+Sigh: 0.047
+Arrow: 0.043
+Breathing: 0.039

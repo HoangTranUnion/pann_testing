@@ -1,0 +1,10 @@
+Computer keyboard: 0.803
+Typing: 0.732
+Music: 0.213
+Tap: 0.207
+Finger snapping: 0.095
+Speech: 0.047
+Thunk: 0.024
+Basketball bounce: 0.014
+Inside, small room: 0.011
+Hands: 0.007

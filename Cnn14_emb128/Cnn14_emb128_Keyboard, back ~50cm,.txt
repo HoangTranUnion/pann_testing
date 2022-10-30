@@ -1,0 +1,10 @@
+Speech: 0.150
+Water: 0.091
+Bathtub (filling or washing): 0.089
+Inside, small room: 0.052
+Tap: 0.046
+Computer keyboard: 0.044
+Typing: 0.040
+Music: 0.035
+Raindrop: 0.032
+Rain: 0.031

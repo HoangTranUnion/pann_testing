@@ -1,0 +1,10 @@
+Typing: 0.862
+Computer keyboard: 0.749
+Tap: 0.096
+Speech: 0.062
+Music: 0.062
+Typewriter: 0.060
+Inside, small room: 0.026
+Animal: 0.025
+Thunk: 0.023
+Thump, thud: 0.014

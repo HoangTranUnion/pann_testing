@@ -1,0 +1,10 @@
+Sliding door: 0.226
+Music: 0.175
+Water: 0.083
+Bathtub (filling or washing): 0.079
+Drip: 0.074
+Inside, small room: 0.056
+Gush: 0.051
+Door: 0.043
+Water tap, faucet: 0.035
+Wind chime: 0.028

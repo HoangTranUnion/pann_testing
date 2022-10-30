@@ -1,0 +1,10 @@
+Music: 0.296
+Speech: 0.084
+Sliding door: 0.064
+Inside, small room: 0.054
+Animal: 0.051
+Water: 0.042
+Television: 0.038
+Cupboard open or close: 0.037
+Bird: 0.035
+Door: 0.030

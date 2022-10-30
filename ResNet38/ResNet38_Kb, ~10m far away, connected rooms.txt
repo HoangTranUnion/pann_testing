@@ -1,0 +1,10 @@
+Speech: 0.344
+Snort: 0.136
+Animal: 0.078
+Breathing: 0.052
+Inside, large room or hall: 0.048
+Inside, small room: 0.047
+Sliding door: 0.042
+Domestic animals, pets: 0.042
+Drawer open or close: 0.038
+Silence: 0.034

@@ -1,0 +1,10 @@
+Speech: 0.288
+Music: 0.202
+Inside, small room: 0.088
+Water: 0.069
+Tap: 0.064
+Sliding door: 0.050
+Bathtub (filling or washing): 0.044
+Toilet flush: 0.036
+Inside, large room or hall: 0.036
+Animal: 0.034

@@ -1,0 +1,10 @@
+Music: 0.112
+Silence: 0.055
+Speech: 0.040
+Vehicle: 0.016
+Tick-tock: 0.014
+Animal: 0.013
+Static: 0.012
+Tick: 0.012
+Snort: 0.010
+Inside, small room: 0.009

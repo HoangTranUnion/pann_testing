@@ -1,0 +1,10 @@
+Sliding door: 0.236
+Music: 0.166
+Typewriter: 0.157
+Door: 0.154
+Tap: 0.119
+Bicycle: 0.053
+Inside, large room or hall: 0.034
+Speech: 0.034
+Fire: 0.031
+Slam: 0.030

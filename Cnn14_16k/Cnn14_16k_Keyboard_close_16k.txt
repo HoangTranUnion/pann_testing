@@ -1,0 +1,10 @@
+Tap: 0.125
+Speech: 0.114
+Typing: 0.086
+Animal: 0.061
+Music: 0.058
+Computer keyboard: 0.056
+Basketball bounce: 0.046
+Trickle, dribble: 0.040
+Vehicle: 0.030
+Horse: 0.026

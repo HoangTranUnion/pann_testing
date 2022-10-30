@@ -1,0 +1,10 @@
+Typing: 0.775
+Computer keyboard: 0.744
+Typewriter: 0.286
+Music: 0.153
+Tap: 0.078
+Finger snapping: 0.033
+Speech: 0.019
+Vehicle: 0.016
+Inside, small room: 0.015
+Musical instrument: 0.011

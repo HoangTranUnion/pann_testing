@@ -1,0 +1,10 @@
+Speech: 0.520
+Music: 0.108
+Inside, large room or hall: 0.056
+Animal: 0.053
+Silence: 0.042
+Sliding door: 0.040
+Ping: 0.039
+Slam: 0.035
+Drawer open or close: 0.034
+Door: 0.034

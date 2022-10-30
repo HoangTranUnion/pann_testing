@@ -1,0 +1,10 @@
+Vehicle: 0.319
+Speech: 0.159
+Bicycle: 0.094
+Car: 0.092
+Typewriter: 0.071
+Typing: 0.063
+Outside, urban or manmade: 0.055
+Inside, small room: 0.055
+Mechanical fan: 0.054
+Animal: 0.053

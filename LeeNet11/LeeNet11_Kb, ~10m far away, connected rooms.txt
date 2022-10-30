@@ -1,0 +1,10 @@
+Speech: 0.104
+Music: 0.100
+Animal: 0.064
+Inside, small room: 0.049
+Silence: 0.033
+Cat: 0.030
+Vehicle: 0.029
+Domestic animals, pets: 0.029
+Hum: 0.028
+Whispering: 0.021

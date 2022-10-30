@@ -1,0 +1,10 @@
+Ping: 0.377
+Music: 0.201
+Thump, thud: 0.160
+Speech: 0.102
+Inside, large room or hall: 0.076
+Tap: 0.076
+Door: 0.052
+Sliding door: 0.036
+Bouncing: 0.031
+Animal: 0.027

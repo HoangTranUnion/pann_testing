@@ -1,0 +1,10 @@
+Music: 0.422
+Speech: 0.077
+Animal: 0.077
+Silence: 0.063
+Hum: 0.062
+Musical instrument: 0.050
+Inside, small room: 0.033
+Cat: 0.031
+Domestic animals, pets: 0.030
+Tick: 0.019

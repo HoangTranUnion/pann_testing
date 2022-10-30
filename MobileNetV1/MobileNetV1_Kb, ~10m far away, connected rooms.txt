@@ -1,0 +1,10 @@
+Speech: 0.333
+Music: 0.085
+Inside, small room: 0.059
+Vehicle: 0.048
+Animal: 0.047
+Sliding door: 0.039
+Snort: 0.036
+Inside, large room or hall: 0.032
+Snake: 0.028
+Breathing: 0.025

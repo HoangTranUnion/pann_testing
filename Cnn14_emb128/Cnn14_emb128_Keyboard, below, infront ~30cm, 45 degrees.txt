@@ -1,0 +1,10 @@
+Door: 0.088
+Sliding door: 0.076
+Speech: 0.061
+Vehicle: 0.047
+Computer keyboard: 0.046
+Typing: 0.043
+Inside, small room: 0.028
+Typewriter: 0.028
+Car: 0.024
+Animal: 0.022

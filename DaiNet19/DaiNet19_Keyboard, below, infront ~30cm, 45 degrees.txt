@@ -1,0 +1,10 @@
+Music: 0.107
+Speech: 0.082
+Animal: 0.069
+Inside, small room: 0.050
+Sliding door: 0.035
+Domestic animals, pets: 0.034
+Door: 0.029
+Tick-tock: 0.027
+Vehicle: 0.026
+Clip-clop: 0.023

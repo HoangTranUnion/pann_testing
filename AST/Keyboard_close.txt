@@ -1,0 +1,10 @@
+- Tap: 0.5332
+- Typing: 0.3159
+- Computer keyboard: 0.2494
+- Finger snapping: 0.0562
+- Typewriter: 0.0232
+- Inside, small room: 0.0178
+- Hands: 0.0128
+- Speech: 0.0110
+- Music: 0.0110
+- Clapping: 0.0055

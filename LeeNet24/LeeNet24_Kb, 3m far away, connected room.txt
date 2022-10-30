@@ -1,0 +1,10 @@
+Music: 0.378
+Speech: 0.193
+Animal: 0.117
+Domestic animals, pets: 0.050
+Inside, small room: 0.050
+Cat: 0.045
+Bird: 0.045
+Musical instrument: 0.040
+Singing: 0.039
+Television: 0.028

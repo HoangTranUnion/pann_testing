@@ -1,0 +1,10 @@
+Music: 0.137
+Creak: 0.119
+Speech: 0.081
+Arrow: 0.073
+Inside, large room or hall: 0.043
+Toilet flush: 0.036
+Bathtub (filling or washing): 0.031
+Tap: 0.028
+Cupboard open or close: 0.025
+Whip: 0.021

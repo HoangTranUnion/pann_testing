@@ -1,0 +1,10 @@
+Music: 0.367
+Speech: 0.073
+Musical instrument: 0.065
+Inside, small room: 0.059
+Animal: 0.029
+Guitar: 0.028
+Water: 0.027
+Plucked string instrument: 0.023
+Silence: 0.020
+Television: 0.017

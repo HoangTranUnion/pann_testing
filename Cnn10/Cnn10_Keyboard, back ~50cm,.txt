@@ -1,0 +1,10 @@
+Music: 0.150
+Inside, small room: 0.112
+Speech: 0.090
+Animal: 0.081
+Cupboard open or close: 0.078
+Bird: 0.077
+Sliding door: 0.062
+Inside, large room or hall: 0.046
+Domestic animals, pets: 0.034
+Arrow: 0.028

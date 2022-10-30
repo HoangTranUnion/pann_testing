@@ -1,0 +1,10 @@
+Cupboard open or close: 0.137
+Drawer open or close: 0.110
+Music: 0.082
+Speech: 0.071
+Inside, small room: 0.053
+Sliding door: 0.048
+Typewriter: 0.045
+Water: 0.036
+Tap: 0.032
+Animal: 0.032

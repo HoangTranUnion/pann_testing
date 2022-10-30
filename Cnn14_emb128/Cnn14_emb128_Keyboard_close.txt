@@ -1,0 +1,10 @@
+Typing: 0.944
+Computer keyboard: 0.928
+Music: 0.060
+Speech: 0.038
+Typewriter: 0.018
+Animal: 0.006
+Musical instrument: 0.005
+Inside, small room: 0.004
+Tap: 0.004
+Electronic music: 0.002

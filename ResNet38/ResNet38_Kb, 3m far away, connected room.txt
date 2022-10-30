@@ -1,0 +1,10 @@
+Speech: 0.696
+Animal: 0.127
+Clip-clop: 0.125
+Tap: 0.083
+Horse: 0.082
+Ping: 0.075
+Arrow: 0.057
+Inside, small room: 0.045
+Domestic animals, pets: 0.042
+Inside, large room or hall: 0.039

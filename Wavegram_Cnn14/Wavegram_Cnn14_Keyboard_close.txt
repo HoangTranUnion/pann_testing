@@ -1,0 +1,10 @@
+Typing: 0.907
+Computer keyboard: 0.839
+Tap: 0.509
+Typewriter: 0.270
+Scratch: 0.099
+Music: 0.086
+Finger snapping: 0.036
+Rattle: 0.026
+Inside, small room: 0.014
+Speech: 0.013

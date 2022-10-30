@@ -1,0 +1,10 @@
+Speech: 0.740
+Dishes, pots, and pans: 0.085
+Cutlery, silverware: 0.066
+Door: 0.062
+Inside, small room: 0.055
+Sliding door: 0.050
+Music: 0.046
+Animal: 0.038
+Keys jangling: 0.025
+Vehicle: 0.025

@@ -1,0 +1,10 @@
+Music: 0.084
+Speech: 0.076
+Cupboard open or close: 0.074
+Arrow: 0.050
+Vehicle: 0.046
+Sliding door: 0.041
+Inside, small room: 0.034
+Basketball bounce: 0.032
+Drawer open or close: 0.031
+Tap: 0.030

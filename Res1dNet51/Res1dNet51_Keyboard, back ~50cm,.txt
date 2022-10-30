@@ -1,0 +1,10 @@
+Sliding door: 0.674
+Door: 0.382
+Cupboard open or close: 0.229
+Vehicle: 0.072
+Speech: 0.059
+Drawer open or close: 0.042
+Inside, small room: 0.039
+Music: 0.039
+Slam: 0.026
+Animal: 0.023

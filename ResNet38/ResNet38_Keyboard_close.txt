@@ -1,0 +1,10 @@
+Typing: 0.872
+Computer keyboard: 0.781
+Tap: 0.213
+Typewriter: 0.085
+Music: 0.035
+Finger snapping: 0.028
+Speech: 0.021
+Thunk: 0.014
+Inside, small room: 0.010
+Trickle, dribble: 0.007

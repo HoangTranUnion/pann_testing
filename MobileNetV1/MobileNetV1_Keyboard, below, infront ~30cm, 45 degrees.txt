@@ -1,0 +1,10 @@
+Speech: 0.139
+Music: 0.134
+Vehicle: 0.090
+Sliding door: 0.083
+Cupboard open or close: 0.077
+Animal: 0.056
+Inside, small room: 0.052
+Door: 0.052
+Bird: 0.051
+Mechanisms: 0.034

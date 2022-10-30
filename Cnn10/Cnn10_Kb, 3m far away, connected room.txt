@@ -1,0 +1,10 @@
+Speech: 0.627
+Animal: 0.111
+Music: 0.103
+Inside, small room: 0.102
+Inside, large room or hall: 0.068
+Domestic animals, pets: 0.048
+Outside, rural or natural: 0.030
+Bird: 0.029
+Arrow: 0.028
+Singing: 0.026

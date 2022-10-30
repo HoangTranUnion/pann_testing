@@ -1,0 +1,10 @@
+Music: 0.117
+Speech: 0.089
+Inside, small room: 0.060
+Vehicle: 0.059
+Cupboard open or close: 0.039
+Outside, rural or natural: 0.038
+Animal: 0.031
+Inside, large room or hall: 0.030
+Glass: 0.026
+Car: 0.024

@@ -1,0 +1,10 @@
+Speech: 0.619
+Animal: 0.173
+Music: 0.140
+Child speech, kid speaking: 0.082
+Inside, small room: 0.080
+Domestic animals, pets: 0.067
+Cat: 0.060
+Sliding door: 0.045
+Vehicle: 0.043
+Inside, large room or hall: 0.042

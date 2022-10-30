@@ -1,0 +1,10 @@
+Sliding door: 0.179
+Mechanisms: 0.136
+Speech: 0.101
+Ratchet, pawl: 0.072
+Door: 0.070
+Typing: 0.066
+Typewriter: 0.061
+Gears: 0.061
+Creak: 0.058
+Tap: 0.056

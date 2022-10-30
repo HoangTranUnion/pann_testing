@@ -1,0 +1,10 @@
+Music: 0.130
+Speech: 0.127
+Sliding door: 0.125
+Water: 0.115
+Tap: 0.084
+Bathtub (filling or washing): 0.068
+Raindrop: 0.057
+Toilet flush: 0.048
+Door: 0.035
+Gurgling: 0.034

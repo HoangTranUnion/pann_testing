@@ -1,0 +1,10 @@
+- Cupboard open or close: 0.1309
+- Typewriter: 0.0814
+- Sliding door: 0.0544
+- Vehicle: 0.0527
+- Speech: 0.0348
+- Inside, small room: 0.0328
+- Door: 0.0303
+- Tap: 0.0249
+- Car: 0.0246
+- Fire: 0.0181

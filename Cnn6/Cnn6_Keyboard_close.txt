@@ -1,0 +1,10 @@
+Typing: 0.543
+Computer keyboard: 0.375
+Speech: 0.145
+Music: 0.117
+Tap: 0.095
+Inside, small room: 0.040
+Fireworks: 0.037
+Firecracker: 0.030
+Thunk: 0.027
+Crackle: 0.024

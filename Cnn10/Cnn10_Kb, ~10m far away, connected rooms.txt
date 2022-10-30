@@ -1,0 +1,10 @@
+Speech: 0.100
+Breathing: 0.086
+Music: 0.078
+Animal: 0.074
+Inside, small room: 0.058
+Silence: 0.052
+Sigh: 0.051
+Arrow: 0.050
+Outside, rural or natural: 0.046
+Sneeze: 0.045

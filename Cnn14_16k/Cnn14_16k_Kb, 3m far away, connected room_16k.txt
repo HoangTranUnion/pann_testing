@@ -1,0 +1,10 @@
+Speech: 0.393
+Horse: 0.230
+Clip-clop: 0.229
+Animal: 0.181
+Ping: 0.131
+Inside, large room or hall: 0.050
+Door: 0.049
+Tap: 0.045
+Bicycle: 0.044
+Sliding door: 0.036

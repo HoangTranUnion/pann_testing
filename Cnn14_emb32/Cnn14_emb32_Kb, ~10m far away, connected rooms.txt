@@ -1,0 +1,10 @@
+Speech: 0.190
+Music: 0.057
+Inside, small room: 0.049
+Door: 0.046
+Animal: 0.041
+Sliding door: 0.040
+Cupboard open or close: 0.026
+Domestic animals, pets: 0.024
+Printer: 0.024
+Snort: 0.023

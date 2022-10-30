@@ -1,0 +1,10 @@
+Speech: 0.800
+Sliding door: 0.254
+Ping: 0.094
+Animal: 0.083
+Door: 0.073
+Bird: 0.057
+Inside, large room or hall: 0.055
+Horse: 0.054
+Music: 0.050
+Tap: 0.046

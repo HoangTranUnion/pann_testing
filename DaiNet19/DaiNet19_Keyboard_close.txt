@@ -1,0 +1,10 @@
+Typing: 0.508
+Computer keyboard: 0.484
+Music: 0.102
+Inside, small room: 0.082
+Speech: 0.043
+Sound effect: 0.019
+Crackle: 0.017
+Crack: 0.017
+Crumpling, crinkling: 0.016
+Tearing: 0.012

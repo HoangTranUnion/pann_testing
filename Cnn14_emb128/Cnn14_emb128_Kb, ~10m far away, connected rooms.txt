@@ -1,0 +1,10 @@
+Speech: 0.293
+Snort: 0.096
+Gasp: 0.072
+Door: 0.064
+Sliding door: 0.052
+Slam: 0.049
+Breathing: 0.043
+Music: 0.037
+Inside, large room or hall: 0.037
+Inside, small room: 0.037

@@ -1,0 +1,10 @@
+Music: 0.223
+Speech: 0.105
+Animal: 0.041
+Inside, small room: 0.041
+Vehicle: 0.033
+Musical instrument: 0.032
+Guitar: 0.020
+Cat: 0.019
+Tap: 0.016
+Mechanisms: 0.016

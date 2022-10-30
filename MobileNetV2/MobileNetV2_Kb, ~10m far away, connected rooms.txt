@@ -1,0 +1,10 @@
+Speech: 0.375
+Whoosh, swoosh, swish: 0.048
+Music: 0.043
+Inside, large room or hall: 0.036
+Arrow: 0.033
+Breathing: 0.030
+Bird: 0.028
+Vehicle: 0.028
+Animal: 0.027
+Snoring: 0.020

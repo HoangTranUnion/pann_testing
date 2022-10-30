@@ -1,0 +1,10 @@
+Typing: 0.946
+Computer keyboard: 0.891
+Music: 0.036
+Speech: 0.029
+Inside, small room: 0.009
+Tap: 0.008
+Typewriter: 0.008
+Sound effect: 0.007
+Vehicle: 0.003
+Outside, rural or natural: 0.003

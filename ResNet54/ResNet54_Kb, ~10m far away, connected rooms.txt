@@ -1,0 +1,10 @@
+Speech: 0.309
+Sliding door: 0.131
+Vehicle: 0.100
+Music: 0.069
+Subway, metro, underground: 0.062
+Drawer open or close: 0.049
+Door: 0.049
+Snort: 0.046
+Inside, small room: 0.046
+Train: 0.045

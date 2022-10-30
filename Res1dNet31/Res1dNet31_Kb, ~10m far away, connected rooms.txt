@@ -1,0 +1,10 @@
+Music: 0.111
+Breathing: 0.095
+Speech: 0.094
+Snort: 0.070
+Silence: 0.068
+Inside, small room: 0.063
+Gasp: 0.052
+Animal: 0.048
+Whoosh, swoosh, swish: 0.043
+Sigh: 0.042

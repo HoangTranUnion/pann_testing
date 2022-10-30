@@ -1,0 +1,10 @@
+Music: 0.318
+Snort: 0.207
+Speech: 0.114
+Animal: 0.063
+Whoosh, swoosh, swish: 0.052
+Drawer open or close: 0.048
+Sliding door: 0.047
+Inside, large room or hall: 0.041
+Whip: 0.041
+Inside, small room: 0.039

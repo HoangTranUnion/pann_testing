@@ -1,0 +1,10 @@
+Animal: 0.161
+Music: 0.119
+Speech: 0.068
+Horse: 0.055
+Whoosh, swoosh, swish: 0.054
+Vehicle: 0.038
+Neigh, whinny: 0.033
+Domestic animals, pets: 0.031
+Silence: 0.031
+Arrow: 0.023

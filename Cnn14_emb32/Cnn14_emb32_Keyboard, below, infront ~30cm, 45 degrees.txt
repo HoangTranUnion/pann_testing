@@ -1,0 +1,10 @@
+Vehicle: 0.222
+Train: 0.063
+Engine: 0.059
+Sewing machine: 0.054
+Car: 0.052
+Rattle: 0.050
+Rail transport: 0.047
+Railroad car, train wagon: 0.044
+Typewriter: 0.038
+Idling: 0.038

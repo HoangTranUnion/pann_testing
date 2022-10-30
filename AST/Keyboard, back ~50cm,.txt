@@ -1,0 +1,10 @@
+- Typewriter: 0.1863
+- Tap: 0.1249
+- Inside, small room: 0.0284
+- Bouncing: 0.0280
+- Typing: 0.0268
+- Speech: 0.0228
+- Music: 0.0166
+- Inside, large room or hall: 0.0150
+- Sliding door: 0.0122
+- Computer keyboard: 0.0100

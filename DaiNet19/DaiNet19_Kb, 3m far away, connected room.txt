@@ -1,0 +1,10 @@
+Speech: 0.279
+Music: 0.143
+Animal: 0.141
+Domestic animals, pets: 0.050
+Horse: 0.041
+Bird: 0.041
+Inside, small room: 0.037
+Clip-clop: 0.032
+Rain: 0.027
+Cat: 0.025
